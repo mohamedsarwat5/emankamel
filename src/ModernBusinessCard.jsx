@@ -78,8 +78,8 @@ END:VCARD`;
         className="max-w-sm w-full bg-white/70 backdrop-blur-2xl rounded-[3rem] shadow-[0_40px_80px_rgba(0,0,0,0.07)] overflow-hidden border border-white relative z-10"
       >
         {/* Profile Header */}
-        <div className="relative h-48 bg-slate-900 ">
-          <div className="absolute inset-0 bg-gradient-to-tr from-slate-900 via-slate-800 to-slate-700"></div>
+        <div className="relative h-48 bg-[#ADEBB3] ">
+          <div className="absolute inset-0"></div>
           <div className="absolute inset-0 opacity-10 bg-[radial-gradient(#fff_1px,transparent_1px)] [background-size:20px_20px]"></div>
 
           <motion.div
