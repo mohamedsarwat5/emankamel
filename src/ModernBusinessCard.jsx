@@ -86,7 +86,7 @@ END:VCARD`;
             variants={itemVariants}
             className="absolute -bottom-12 left-1/2 -translate-x-1/2 p-1.5 bg-white rounded-full shadow-lg z-50"
           >
-            <div className="w-32 h-32 rounded-full overflow-hidden border-2 border-slate-50 bg-slate-100 z-50">
+            <div className="w-36 h-36 rounded-full overflow-hidden border-2 border-slate-50 bg-slate-100 z-50">
               <img
                 src={photo}
                 alt="Eman Mohamed"
