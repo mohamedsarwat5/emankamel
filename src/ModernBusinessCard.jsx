@@ -1,7 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import { Phone, Mail, Globe, Printer, UserPlus, MapPin } from "lucide-react";
-import photo from "/img.webp";
+import photo from "/img2.webp";
 
 const ModernBusinessCard = () => {
   const primaryColor = "#ADEBB3";
