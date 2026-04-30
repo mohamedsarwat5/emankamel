@@ -1,7 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import { Phone, Mail, Globe, Printer, UserPlus, MapPin } from "lucide-react";
-import photo from "/img.jpg";
+import photo from "/img.webp";
 // Social Icons as SVGs to avoid Import Errors
 
 const ModernBusinessCard = () => {
