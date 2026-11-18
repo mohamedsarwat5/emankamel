@@ -36,7 +36,7 @@ const ModernBusinessCard = () => {
       phone: "+201030800713",
       email: "eakl@transit.com.eg",
       title: "Help Desk Specialist",
-      organization: "Trans IT",
+      organization: "Trans ",
     };
 
     const vCard = `BEGIN:VCARD
