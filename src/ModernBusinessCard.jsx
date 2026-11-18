@@ -99,7 +99,7 @@ END:VCARD`;
         {/* Content Section */}
         <div className="pt-16 pb-6 px-6 text-center">
           <motion.h1 variants={itemVariants} className="text-2xl font-bold text-slate-800 tracking-tight">
-            Eman Mohamed Kamel
+            Eman Mohamed
           </motion.h1>
           <motion.p variants={itemVariants} className="text-slate-500 font-bold mt-1 text-[11px] uppercase tracking-[0.25em]">
             Help Desk Specialist • Trans IT
